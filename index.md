@@ -2,8 +2,8 @@
 layout: cv
 title: Yikun "Nimo" WANG
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+#  url: mailto:woden@cs.cmu.edu
+  text: wangyikun@hust.edu.cn
 # homepage:
 #   url: http://cs.cmu.edu/~woden
 #   text: cs.cmu.edu/~woden
