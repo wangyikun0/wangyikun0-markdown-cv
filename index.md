@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **Huazhong University of Science and Technology** `2020.9 - 2024.6(expected)`
+### **Huazhong University of Science and Technology** `2020.9 - 2024.6(Expected)`
 
 ```
 Wuhan, China
@@ -31,17 +31,17 @@ Wuhan, China
 
 - B.A. in Communication Studies (Network and New Media Focus) 
 - Advised by Lecturer [Ran WANG](http://sjic.hust.edu.cn/info/1168/8606.htm) in Computational Communication
-- GPA:4.0/4.0
-- English Proficiency：IELTS:7.5      CET-4:633          CET-6:572
+- GPA:4.0/4.0 (Ranked 1/33 for three consecutive years)
+- English Proficiency：IELTS:7.5      CET-4:633       CET-6:572
 - Core Courses: Communication Statistics (97), New Media Audience Analysis (97), Data Mining (96), Research Methods of Journalism (95)
 
-### **Huazhong University of Science and Technology** `2020.9 - 2024.6(expected)`
+### **Huazhong University of Science and Technology** `2020.9 - 2024.6(Expected)`
 
 ```
 Wuhan, China
 ```
 
-- B.E. in Computer Science and Technology(Minor Degree)
+- B.E. in Computer Science and Technology (Minor Degree)
 - Core Courses: Python Language, Object-Oriented Programming in C++, Data Structures, Algorithm Design and Analysis
 - Professional Certificates: Certificate of Network Engineer (Level IV) and Network Technology Certificate (Level III) of National Computer Rank Examination, Qualification of Computer Technology and Software Profession (Intermediate Level).
 
