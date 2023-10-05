@@ -30,9 +30,9 @@ Wuhan, China
 ```
 
 - B.A. in Communication Studies (Network and New Media Focus) 
-- Advised by [Ran WANG](http://sjic.hust.edu.cn/info/1168/8606.htm).
-- Ranking: 1/33 (for three consecutive years)   GPA:4.0/4.0
-- English Proficiency：IELTS:7.5   CET-4:633   CET-6:572
+- Advised by Lecturer[Ran WANG](http://sjic.hust.edu.cn/info/1168/8606.htm).
+- Ranking: 1/33 (for three consecutive years)    GPA:4.0/4.0
+- English Proficiency：IELTS:7.5    CET-4:633    CET-6:572
 - Core Courses: Communication Statistics (97), New Media Audience Analysis (97), Data Mining (96), Research Methods of Journalism (95)
 
 ### **Columbia University** `2016.9 - 2018.5`
