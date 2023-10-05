@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yikun "Nimo" WANG
+title: Yikun_WANG_CV
 email:
 #  url: mailto:woden@cs.cmu.edu
    text: wangyikun@hust.edu.cn
@@ -23,14 +23,17 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Huazhong University of Science and Technology** `2020.9-2024.6(expected)`
 
 ```
-Pittsburgh, PA
+Wuhan, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- B.A. in Communication Studies (Network and New Media Focus) 
+- Advised by [Ran WANG](http://sjic.hust.edu.cn/info/1168/8606.htm).
+- Ranking: 1/33 (for three consecutive years)   GPA:4.0/4.0
+- English Proficiency：IELTS:7.5   CET-4:633   CET-6:572
+- Core Courses: Communication Statistics (97), New Media Audience Analysis (97), Data Mining (96), Research Methods of Journalism (95)
 
 ### **Columbia University** `2016.9 - 2018.5`
 
